@@ -1,6 +1,6 @@
 # 🎬 IMDB Sentiment Analysis — Boosting + Stacking Ensemble
 
-A complete NLP sentiment classification project using **TF-IDF, TruncatedSVD, five Boosting algorithms, and a Stacking Ensemble** for classifying IMDB movie reviews as **Positive** or **Negative**.
+A complete NLP sentiment classification project using **Word2vec, TruncatedSVD, five Boosting algorithms, and a Stacking Ensemble** for classifying IMDB movie reviews as **Positive** or **Negative**.
 
 ---
 
