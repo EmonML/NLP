@@ -22,7 +22,7 @@ Movie Review
      ↓
 Text Cleaning
      ↓
-TF-IDF Vectorization
+Word2Vec Vectorization
      ↓
 TruncatedSVD
      ↓
