@@ -147,33 +147,6 @@ w2v_model = Word2Vec(
 
 ```
 
-### Why TF-IDF?
-
-TF-IDF represents the importance of words within documents.
-
-It considers:
-
-* Term Frequency
-* Inverse Document Frequency
-
-The project uses both:
-
-```text
-Unigrams → individual words
-Bigrams  → two-word combinations
-```
-
-For example:
-
-```text
-"excellent"
-"very good"
-"not good"
-```
-
-Bigrams can capture useful sentiment expressions that single words may miss.
-
----
 
 # 📉 TruncatedSVD
 
@@ -192,7 +165,7 @@ This converts the high-dimensional TF-IDF representation into a compact dense fe
 ### Pipeline
 
 ```text
-TF-IDF
+Word2Vec
   ↓
 High-dimensional Sparse Matrix
   ↓
