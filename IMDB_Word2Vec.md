@@ -63,14 +63,7 @@ The main objectives of this project are:
 
 Dataset load from HuggingFace.
 
-Default paths:
 
-```python
-TRAIN_PATH = 'IMDB_Train.csv'
-TEST_PATH = 'IMDB_Test.csv'
-```
-
-The CSV files should contain the following columns:
 
 | Column      | Description                 |
 | ----------- | --------------------------- |
@@ -90,15 +83,6 @@ or:
 1
 0
 ```
-
-The notebook converts:
-
-```text
-Positive → 1
-Negative → 0
-```
-
----
 
 # 🧹 Data Preprocessing
 
