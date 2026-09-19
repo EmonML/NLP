@@ -133,15 +133,18 @@ After cleaning the text, **TF-IDF Vectorization** is applied.
 The project uses:
 
 ```python
-TfidfVectorizer(
-    sublinear_tf=True,
-    strip_accents='unicode',
-    min_df=2,
-    max_df=0.95,
-    ngram_range=(1, 2),
-    max_features=100000,
-    dtype=np.float32
+w2v_model = Word2Vec(
+    sentences=train_tokens,
+    vector_size=W2V_VECTOR_SIZE,
+    window=W2V_WINDOW,
+    min_count=W2V_MIN_COUNT,
+    workers=W2V_WORKERS,
+    sg=1,          # Skip-gram
+    negative=10,
+    epochs=10,
+    seed=SEED
 )
+
 ```
 
 ### Why TF-IDF?
