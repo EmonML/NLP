@@ -61,7 +61,7 @@ The main objectives of this project are:
 
 # 📂 Dataset
 
-The notebook expects separate training and testing CSV files.
+Dataset load from HuggingFace.
 
 Default paths:
 
