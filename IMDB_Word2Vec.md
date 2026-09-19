@@ -48,8 +48,8 @@ The main objectives of this project are:
 
 1. Perform sentiment analysis on IMDB movie reviews.
 2. Clean and preprocess raw text data.
-3. Convert text into numerical features using TF-IDF.
-4. Reduce the dimensionality of TF-IDF features using TruncatedSVD.
+3. Convert text into numerical features using Word2Vec.
+4. Reduce the dimensionality of Word2Vec features using TruncatedSVD.
 5. Train multiple boosting algorithms.
 6. Compare individual model performance.
 7. Build a Stacking Ensemble.
