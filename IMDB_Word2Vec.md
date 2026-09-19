@@ -126,9 +126,9 @@ Unnecessary characters are removed while preserving useful sentiment-related cha
 
 ---
 
-# 🔢 TF-IDF Feature Extraction
+# 🔢 Word2Vec Feature Extraction
 
-After cleaning the text, **TF-IDF Vectorization** is applied.
+After cleaning the text, **Word2Vec Vectorization** is applied.
 
 The project uses:
 
