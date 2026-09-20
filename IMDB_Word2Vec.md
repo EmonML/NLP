@@ -150,9 +150,9 @@ w2v_model = Word2Vec(
 
 # 📉 TruncatedSVD
 
-TF-IDF generates a high-dimensional sparse matrix.
+Word2Vec generates a high-dimensional sparse matrix.
 
-Using the complete TF-IDF matrix directly with tree-based boosting algorithms can become computationally expensive.
+Using the complete Word2Vec matrix directly with tree-based boosting algorithms can become computationally expensive.
 
 Therefore, the project applies:
 
