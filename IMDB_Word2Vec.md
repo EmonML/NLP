@@ -416,7 +416,7 @@ IMDB-Boosting-Stacking-Ensemble/
 │   └── IMDB_Test.csv
 │
 ├── artifacts/
-│   ├── tfidf_vectorizer.joblib
+│   ├── Word2Vec_vectorizer.joblib
 │   ├── svd_transformer.joblib
 │   ├── stacking_imdb_model.joblib
 │   ├── model_comparison.csv
