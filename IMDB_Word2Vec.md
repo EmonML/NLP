@@ -446,7 +446,7 @@ IMDB-Boosting-Stacking-Ensemble/
 
 ### NLP
 
-* TF-IDF
+* Word2Vec
 * N-grams
 * Text preprocessing
 
