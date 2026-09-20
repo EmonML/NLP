@@ -519,11 +519,11 @@ Open:
 IMDB_Boosting_Stacking_Ensemble.ipynb
 ```
 
-Update the dataset paths if necessary:
+The Dataset is necessary:
 
 ```python
-TRAIN_PATH = 'IMDB_Train.csv'
-TEST_PATH = 'IMDB_Test.csv'
+from dataset load_dataset
+dataset = load_dataset("stanfordnlp/imdb")
 ```
 
 Then run the notebook cells sequentially.
