@@ -27,9 +27,9 @@ Word2Vec Vectorization
 TruncatedSVD
      ↓
  ┌───────────────┬────────────────────┬───────────────┐
- │   AdaBoost    │ Gradient Boosting   │    XGBoost    │
+ │   AdaBoost    │ Gradient Boosting  │    XGBoost    │
  ├───────────────┼────────────────────┼───────────────┤
- │   CatBoost    │      LightGBM       │               │
+ │   CatBoost    │      LightGBM      │               │
  └───────────────┴────────────────────┴───────────────┘
                      ↓
              Stacking Classifier
