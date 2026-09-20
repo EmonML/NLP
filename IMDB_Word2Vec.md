@@ -672,7 +672,7 @@ Therefore, accuracy, precision, recall, F1-score and ROC-AUC values should not b
 
 **Md Emon Islam**
 
-Machine Learning & Deep Learning Enthusiast
+AI Enthusiast
 
 Areas of interest:
 
@@ -680,8 +680,12 @@ Areas of interest:
 * Deep Learning
 * Natural Language Processing
 * Computer Vision
+* Time Series Analysis
+* Transfer Learning
+* Sequence Modeling
+* Transformer
+* Large Language Models
 * Generative AI
-* AI Engineering
 
 ---
 
