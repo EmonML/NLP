@@ -583,7 +583,7 @@ Then run the notebook cells sequentially.
 * ✅ IMDB sentiment classification
 * ✅ Separate train/test datasets
 * ✅ Text preprocessing
-* ✅ TF-IDF feature extraction
+* ✅ Word2Vec feature extraction
 * ✅ Unigram + Bigram features
 * ✅ TruncatedSVD dimensionality reduction
 * ✅ Five boosting algorithms
@@ -687,7 +687,7 @@ Areas of interest:
 
 # ⭐ Project Summary
 
-**IMDB Boosting + Stacking Ensemble** is an NLP machine-learning project that combines **TF-IDF + TruncatedSVD** with five boosting algorithms and a **StackingClassifier** to perform movie-review sentiment classification.
+**IMDB Boosting + Stacking Ensemble** is an NLP machine-learning project that combines **Word2Vec + TruncatedSVD** with five boosting algorithms and a **StackingClassifier** to perform movie-review sentiment classification.
 
 The project provides a complete workflow from raw text preprocessing to feature engineering, model training, ensemble learning, evaluation, prediction, and model persistence.
 
