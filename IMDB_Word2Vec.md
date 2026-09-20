@@ -545,7 +545,7 @@ Then run the notebook cells sequentially.
               Text Cleaning
                      │
                      ▼
-             TF-IDF Vectorizer
+             Word2Vec Vectorizer
                1-2 Gram
                      │
                      ▼
