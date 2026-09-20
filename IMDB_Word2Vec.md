@@ -412,8 +412,8 @@ IMDB-Boosting-Stacking-Ensemble/
 ├── IMDB_Boosting_Stacking_Ensemble.ipynb
 │
 ├── data/
-│   ├── IMDB_Train.csv
-│   └── IMDB_Test.csv
+│   ├── IMDB_Dataset load from HuggingFace.
+│   
 │
 ├── artifacts/
 │   ├── Word2Vec_vectorizer.joblib
