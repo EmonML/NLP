@@ -262,7 +262,7 @@ The architecture is:
                    │                    │
                    ├── GradientBoosting ┤
                    │                    │
-TF-IDF + SVD ──────┼── XGBoost ─────────┼──> Logistic Regression
+Word2Vec + SVD ──────┼── XGBoost ─────────┼──> Logistic Regression
                    │                    │       Meta-Learner
                    ├── CatBoost ────────┤
                    │                    │
